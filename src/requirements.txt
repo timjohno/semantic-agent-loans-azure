@@ -22,7 +22,6 @@ sentence-transformers==4.1.0
 
 # String matching and utilities
 fuzzywuzzy==0.18.0
-python-Levenshtein==0.25.1
 
 # Async and networking 
 nest-asyncio==1.6.0
